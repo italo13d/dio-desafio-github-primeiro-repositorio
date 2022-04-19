@@ -1,3 +1,7 @@
 Link para download do Git: https://git-scm.com/downloads
 
+<<<<<<< HEAD
 // O Git Bash é um terminal extendido para otimizar o uso do Git usado através de um CLI( Command Line Interface).
+=======
+// O Git Bash é um terminal extendido para otimizar o uso do Git usado através de um CLI( Command Line Interface).
+>>>>>>> cde0eb23beb765de48219a346440bc20bd74dc81
